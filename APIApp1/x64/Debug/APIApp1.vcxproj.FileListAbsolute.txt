@@ -1,0 +1,4 @@
+C:\Users\82106\Desktop\study\PNU_Shared\4.데이터베이스실습\_App\APIApp1\x64\Debug\APIApp1.exe
+C:\Users\82106\Desktop\study\PNU_Shared\4.데이터베이스실습\_App\APIApp1\x64\Debug\APIApp1.pdb
+C:\Users\82106\Documents\GitHub\MFC_Study\APIApp1\x64\Debug\APIApp1.exe
+C:\Users\82106\Documents\GitHub\MFC_Study\APIApp1\x64\Debug\APIApp1.pdb
